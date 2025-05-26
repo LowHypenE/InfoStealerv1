@@ -1,0 +1,11 @@
+psutil
+requests
+py-cpuinfo
+pygetwindow
+pyautogui
+pyperclip
+opencv-python
+pillow
+wmi
+
+pip install ""
