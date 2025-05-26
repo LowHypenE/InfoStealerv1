@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# VSCode and JetBrains IDEs
+.vscode/
+.idea/
+
+# Logs and misc
+*.log
