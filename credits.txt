@@ -1,0 +1,29 @@
+Silent PC Audit Tool/InfoStealv1
+Created by: Biscuit/ Aka LowHypenE
+Discord: unevenwxrld
+
+Tool Purpose:
+For educational and ethical testing on systems you own or have permission to monitor.
+
+Main Development & Support:
+- System data capture and formatting by Biscuit
+- Discord integration, stealth mode, and automation features inspired by community requests
+- Assistant support via ChatGPT (OpenAI)
+
+Libraries Used:
+- psutil: System usage statistics
+- py-cpuinfo: CPU information
+- pygetwindow, pyautogui: Screenshot and window detection
+- pyperclip: Clipboard access
+- opencv-python: Webcam integration
+- pillow: Image manipulation
+- wmi: Windows Management Instrumentation
+- requests: Discord webhook communication
+
+Legal & Ethical Reminder:
+Do not use this tool on machines you do not own or without full permission. This project is meant to educate users on system diagnostics and ethical scripting techniques.
+
+GitHub Repository:
+https://github.com/LowHypenE/InfoStealerv1
+
+Thank you for using InfoStealV1!
